@@ -1,4 +1,3 @@
-theme: cayman
+theme: minima
 title: Predicting Spotify Track Popularity
 description: A data science investigation into what makes songs popular — DSC 80, UCSD
-show_downloads: false
