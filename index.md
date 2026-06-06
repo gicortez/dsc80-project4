@@ -1,4 +1,7 @@
-# Predicting Spotify Track Popularity
+---
+layout: default
+title: Predicting Spotify Track Popularity
+---
 
 **By Gian Cortez** &nbsp;|&nbsp; DSC 80, UCSD &nbsp;|&nbsp; Spring 2026
 
